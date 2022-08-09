@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
   github: 'Ihorlle',
-  youtube: 'igorhorlle',
-  facebook: 'igorhorlle',
-  instagram: 'igorhorlle',
-  twitter: 'jakelinytec'
+  youtube: '',
+  facebook: '',
+  instagram: 'ihorlle',
+  twitter: ''
 }
 
 function changeSocialMediaLinks() {
